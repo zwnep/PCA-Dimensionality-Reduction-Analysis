@@ -1,8 +1,6 @@
 # PCA-Dimensionality-Reduction-Analysis
 This project focuses on dimensionality reduction in datasets and improving machine learning performance using Principal Component Analysis (PCA) techniques.
 
-# PCA & Dimensionality Reduction Analysis
-
 ## Overview
 This project demonstrates the application of **Principal Component Analysis (PCA)** for dimensionality reduction on various datasets, including Body Performance and Adult Census Income data. The primary goal is to address the "Curse of Dimensionality" by reducing the number of features while retaining the maximum amount of variance/information, thereby optimizing machine learning model performance and training time.
 
